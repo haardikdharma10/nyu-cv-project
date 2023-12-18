@@ -5,5 +5,8 @@ Image colorization is one of the tasks under the Image Restoration umbrella. It 
 
 ## Network Architecture
 
+### Conditional GANs
 ![ganarchitecture](https://github.com/haardikdharma10/nyu-cv-project/blob/main/gan.png)
+
+### UNet
 ![unetarchitecture](https://github.com/haardikdharma10/nyu-cv-project/blob/main/unet.png)
