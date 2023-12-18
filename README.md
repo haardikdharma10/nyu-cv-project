@@ -10,3 +10,14 @@ Image colorization is one of the tasks under the Image Restoration umbrella. It 
 
 ### UNet
 ![unetarchitecture](https://github.com/haardikdharma10/nyu-cv-project/blob/main/unet.png)
+
+## Results
+
+### Comparison of various architectures
+<img width="324" alt="results" src="https://github.com/haardikdharma10/nyu-cv-project/assets/53044263/7a871ec6-acd1-4014-9680-c9240a3f73bc">
+
+### Graphs demonstrating convergence of each model
+<img width="453" alt="graphs" src="https://github.com/haardikdharma10/nyu-cv-project/assets/53044263/a1195c35-8059-4782-abe8-51844490e248">
+
+### Ablation results
+<img width="773" alt="table" src="https://github.com/haardikdharma10/nyu-cv-project/assets/53044263/59b18c77-72bc-4ece-b809-0e8434144a73">
